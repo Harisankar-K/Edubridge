@@ -9,7 +9,7 @@ Tableau dashboard is the consolidated display of all worksheets. Each worksheet 
 
 🏴 Excel Dashboard:
 Excel Dashboards use dashboard elements like tables, charts, and gauges to show the overviews. The dashboards ease the decision-making process by showing the vital parts of the data in the same window.
-
+:sample sales record
 
 
 
