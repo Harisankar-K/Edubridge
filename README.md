@@ -4,6 +4,7 @@
 
 
 💻Description:
+
 Contains assignments, projects and some analysis I learned about Data Analysis with some trending tools and softwares under the training provided by Edubridge India.
 
 👀Contents:
@@ -22,16 +23,21 @@ Tablue
 
 To make you aware of all the fundamentals commands of Python. It also covers various visualization techniques with advanced machine learning techniques.
 
+
 🎯Practice Works:
 
 The best way we learn anything is by practice and exercise questions. 
+
 
 
 🧿Projects:
 
 The projects are based on EDA of datasets and a simple machine learning technique known as Linear Regression.
 
+
 🖱Dashboards:
+
 in this we include excel and tablue dashboards
+
 
 THANK YOU!
