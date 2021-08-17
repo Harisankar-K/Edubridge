@@ -3,41 +3,41 @@
 💻 Edubridge is my organisation of data science/ data analytic course.
 
 
-💻Description:
+# 💻Description:
 
 Contains assignments, projects and some analysis I learned about Data Analysis with some trending tools and softwares under the training provided by Edubridge India.
 
-👀Contents:
+# 👀Contents:
 
 Assignments
 Practice Works
 Projects
 dashboards
 
-🔑Tools Used:
+# 🔑Tools Used:
 
 Anaconda
 Tablue
 
-🎲Assignments:
+# 🎲Assignments:
 
 To make you aware of all the fundamentals commands of Python. It also covers various visualization techniques with advanced machine learning techniques.
 
 
-🎯Practice Works:
+# 🎯Practice Works:
 
 The best way we learn anything is by practice and exercise questions. 
 
 
 
-🧿Projects:
+# 🧿Projects:
 
 The projects are based on EDA of datasets and a simple machine learning technique known as Linear Regression.
 
 
-🖱Dashboards:
+# 🖱Dashboards:
 
 in this we include excel and tablue dashboards
 
 
-THANK YOU!
+# THANK YOU!
