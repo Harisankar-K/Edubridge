@@ -1,4 +1,4 @@
-✅Indivitual Projects:
+## ✅Indivitual Projects:
 
 in this indivitual projects i include
 
