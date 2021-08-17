@@ -1,4 +1,4 @@
-# Edubridge-Readme.md
+# Edubridge
 
 💻 Edubridge is my organisation of data science/ data analytic course.
 
