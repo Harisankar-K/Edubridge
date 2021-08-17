@@ -1,3 +1,3 @@
-🌐PROJECTS:
+# 🌐PROJECTS:
 
 in this we include the  group and indivitual projects of both EDA and Linear Regression Analysis . i hope you can enjoy this ......
