@@ -10,8 +10,11 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 ## 👀Contents:
 
 Assignments
+
 Practice Works
+
 Projects
+
 dashboards
 
 ## 🔑Tools Used:
