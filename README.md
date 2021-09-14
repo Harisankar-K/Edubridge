@@ -18,6 +18,7 @@ dashboards
 
 Anaconda
 Tablue
+Excel
 
 ## 🎲Assignments:
 
