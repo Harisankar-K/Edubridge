@@ -32,7 +32,7 @@ The best way we learn anything is by practice and exercise questions.
 
 ## 🧿Projects:
 
-The projects are based on EDA of datasets and a simple machine learning technique known as Linear Regression.
+The projects are based on EDA of datasets , a simple machine learning technique known as Linear Regression and a project based on R analysis.
 
 
 ## 🖱Dashboards:
