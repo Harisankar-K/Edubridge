@@ -9,21 +9,21 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 
 ## 👀Contents:
 
-Assignments
+🔴Assignments
 
-Practice Works
+🔴Practice Works
 
-Projects
+🔴Projects
 
-dashboards
+🔴dashboards
 
 ## 🔑Tools Used:
 
-Anaconda
+🕳Anaconda
 
-Tablue
+🕳Tablue
 
-Excel
+🕳Excel
 
 ## 🎲Assignments:
 
