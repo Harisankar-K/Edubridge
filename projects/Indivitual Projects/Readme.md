@@ -6,4 +6,4 @@ in this indivitual projects i include
 
 ⭕petrol price in analysis as the linear regression analysis
 
-⭕the petrol price datset as the R analysis
+⭕the petrol price dataset as the R analysis
