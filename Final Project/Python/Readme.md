@@ -4,6 +4,6 @@ In data mining, Exploratory Data Analysis (EDA) is an approach to analyzing data
 in this we try to analyse the data to find  which state have more active cases more deaths and vaccination doses taken by each state etc.i hope you all can learn more clearly with this EDA and some part of visualisation helps more to understand about the vaccination drive.
 
 
-# 📊 Linear Regression Using the Vaciination Data:
+# 📊 Linear Regression Using the Vaccination Data:
 
 Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). So, this regression technique finds out a linear relationship between x (input) and y(output).In this data we do some part of EDA and linear regression.In this we taken Y as the dependent variable and X as independent variable.we compare the actual and predicted values nd visualise the comparison.
