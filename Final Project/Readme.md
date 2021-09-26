@@ -1,4 +1,4 @@
-# COVID 19 Analysis:
+# 🦠COVID 19 Analysis:
 
 The Covid-19 disease has shaken the world. It has spread far and wide across the globe leaving no one safe. While most countries have come to a standstill, a lot of healthcase groups, medical professionals, researchers and various other communities are fighting hard to overcome these hard times.
 
