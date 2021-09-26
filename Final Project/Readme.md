@@ -14,12 +14,19 @@ Covid-19 Vaccination data from all the states and union territories of India. in
 ## ✅Attribute Information:
 
 State/UTs - Names of states and union territories of India
+
 Total Cases-total cases reported in india
+
 Active- active cases reported in India 
+
 Deaths- Deaths cases reported in India
+
 Dischgarged- discharged cases 
+
 Total Vaccination Doses- Total number of vaccine doses given
+
 Dose 1 - Number of first dose of vaccine given
+
 Dose 2 - Number of second dose of vaccine given
 
 
