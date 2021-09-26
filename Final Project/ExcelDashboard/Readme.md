@@ -1,3 +1,3 @@
 # 📈 Excel Dashboard:
 
-In this excel dashboard 
+The Excel Dashboard is used to display overviews of large data tracks. Excel Dashboards use dashboard elements like tables, charts, and gauges to show the overviews. The dashboards ease the decision-making process by showing the vital parts of the data in the same window. In this dashboard we used to charts the statewise totalcases and discharged cases.in that  we can see that maharashtara has the most total cases and discharged cases in India. in active cases we try to show the active cases that reported in india and most active cases are reported in kerala as of the dataset and most deaths are reported in maharashtra.and in the pie chart  we clearly see that the percentage of vaccination drive taken in India.
