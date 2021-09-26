@@ -43,7 +43,13 @@ The projects are based on EDA of datasets , a simple machine learning technique 
 
 ## 🖱Dashboards:
 
-in this we include excel and tablue dashboards
+in this we include excel and tabluea dashboards
+
+
+
+## 🧠Final Project:
+
+in this final project we use all the  DataAnalysis Tool like Python(EDA, LinearRegression) , SAS , R , Tabluea , Excel with one dataset
 
 
 # THANK YOU!
