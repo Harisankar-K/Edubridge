@@ -22,7 +22,8 @@ Total Vaccination Doses- Total number of vaccine doses given
 Dose 1 - Number of first dose of vaccine given
 Dose 2 - Number of second dose of vaccine given
 
-##🗝 Data Analysis Tools:
+
+## 🗝 Data Analysis Tools:
 
 ❗Python
 
