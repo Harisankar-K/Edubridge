@@ -41,6 +41,7 @@ Dose 2 - Number of second dose of vaccine given
 From this data, what you could do is:
 
 Visualisations about the vaccination trends in the country.
+
 Which state has the more total vaccination?.
 
 
