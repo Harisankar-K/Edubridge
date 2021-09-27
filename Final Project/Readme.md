@@ -44,7 +44,7 @@ Dose 2 - Number of second dose of vaccine given
 
 ❗R
 
-❗Tabluea
+❗Tableau
 
 ❗Excel
 
