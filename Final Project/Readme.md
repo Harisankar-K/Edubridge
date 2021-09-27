@@ -6,6 +6,12 @@ WHO declared Covid-19 a pandemic and India is fighting back by invoking the Epid
 
 I strongly believe and trust the healthcase experts of the country and the world to fight the virus in the best possible way. There are plenty of analysis, dashboards, insights, models, forecasts that have been shared by the community and we are very grateful to all the organzations that collect and share data publicly to facilitate these reports.
 
+# 💉COVID-19 vaccination in India
+
+ India began administration of COVID-19 vaccines on 16 January 2021. As of 26 September 2021, India has administered over 856 million doses overall, including first and second doses of the currently-approved vaccines.
+
+India initially approved the Oxford–AstraZeneca vaccine (manufactured under license by Serum Institute of India under the trade name Covishield) and Covaxin (a vaccine developed locally by Bharat Biotech). They have since been joined by the Sputnik V (manufactured under license by Dr. Reddy's Laboratories, with additional production from Serum Institute of India being started in September), Moderna vaccines, Johnson & Johnson vaccine and ZyCoV-D (a vaccine locally developed by Zydus Cadila)  and other vaccine candidates undergoing local clinical trials.
+
 
 ## 🤔About:
 
